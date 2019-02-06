@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/base-master.dir/src/main.c.o  -o base-master -lm -lSDL2 -lSDL2_gfx 
